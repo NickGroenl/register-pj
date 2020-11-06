@@ -1,0 +1,460 @@
+[20:51:22] [WARNING] mysql_connect: no password specified
+[20:53:27] [WARNING] mysql_connect: no password specified
+[20:56:26] [WARNING] mysql_connect: no password specified
+[20:57:58] [WARNING] mysql_connect: no password specified
+[21:23:00] [WARNING] mysql_connect: no password specified
+[21:25:53] [WARNING] mysql_connect: no password specified
+[21:28:30] [WARNING] mysql_connect: no password specified
+[21:30:00] [WARNING] mysql_connect: no password specified
+[21:32:31] [WARNING] mysql_connect: no password specified
+[21:04:11] [ERROR] mysql_format: invalid connection handle '1'
+[21:04:11] [ERROR] mysql_query: invalid connection handle '1'
+[21:04:11] [ERROR] mysql_errno: invalid connection handle '1'
+[21:10:46] [ERROR] mysql_format: invalid connection handle '1'
+[21:10:46] [ERROR] mysql_query: invalid connection handle '1'
+[21:10:46] [ERROR] mysql_errno: invalid connection handle '1'
+[00:50:34] [ERROR] mysql_format: invalid connection handle '1'
+[00:50:34] [ERROR] mysql_query: invalid connection handle '1'
+[00:50:34] [ERROR] mysql_errno: invalid connection handle '1'
+[13:08:53] [ERROR] mysql_format: invalid connection handle '1'
+[13:08:53] [ERROR] mysql_query: invalid connection handle '1'
+[13:08:53] [ERROR] mysql_errno: invalid connection handle '1'
+[13:08:58] [ERROR] mysql_format: invalid connection handle '1'
+[13:08:58] [ERROR] mysql_query: invalid connection handle '1'
+[13:08:58] [ERROR] mysql_errno: invalid connection handle '1'
+[13:11:33] [ERROR] mysql_format: invalid connection handle '1'
+[13:11:33] [ERROR] mysql_query: invalid connection handle '1'
+[13:11:33] [ERROR] mysql_errno: invalid connection handle '1'
+[13:11:38] [ERROR] mysql_format: invalid connection handle '1'
+[13:11:38] [ERROR] mysql_query: invalid connection handle '1'
+[13:11:38] [ERROR] mysql_errno: invalid connection handle '1'
+[13:20:56] [ERROR] mysql_format: invalid connection handle '1'
+[13:20:56] [ERROR] mysql_query: invalid connection handle '1'
+[13:20:56] [ERROR] mysql_errno: invalid connection handle '1'
+[13:21:06] [ERROR] mysql_format: invalid connection handle '1'
+[13:21:06] [ERROR] mysql_query: invalid connection handle '1'
+[13:21:06] [ERROR] mysql_errno: invalid connection handle '1'
+[22:39:00] [ERROR] mysql_format: invalid connection handle '1'
+[22:39:00] [ERROR] mysql_query: invalid connection handle '1'
+[22:39:00] [ERROR] mysql_errno: invalid connection handle '1'
+[22:39:56] [ERROR] mysql_format: invalid connection handle '1'
+[22:39:56] [ERROR] mysql_query: invalid connection handle '1'
+[22:39:56] [ERROR] mysql_errno: invalid connection handle '1'
+[22:41:28] [ERROR] mysql_format: invalid connection handle '1'
+[22:41:28] [ERROR] mysql_query: invalid connection handle '1'
+[22:41:28] [ERROR] mysql_errno: invalid connection handle '1'
+[22:44:14] [ERROR] mysql_format: invalid connection handle '1'
+[22:44:14] [ERROR] mysql_query: invalid connection handle '1'
+[22:44:14] [ERROR] mysql_errno: invalid connection handle '1'
+[22:44:56] [ERROR] mysql_format: invalid connection handle '1'
+[22:44:56] [ERROR] mysql_query: invalid connection handle '1'
+[22:44:56] [ERROR] mysql_errno: invalid connection handle '1'
+[22:48:48] [ERROR] mysql_format: invalid connection handle '1'
+[22:48:48] [ERROR] mysql_query: invalid connection handle '1'
+[22:48:48] [ERROR] mysql_errno: invalid connection handle '1'
+[22:54:23] [ERROR] mysql_format: invalid connection handle '1'
+[22:54:23] [ERROR] mysql_query: invalid connection handle '1'
+[22:54:23] [ERROR] mysql_errno: invalid connection handle '1'
+[22:57:17] [ERROR] mysql_format: invalid connection handle '1'
+[22:57:17] [ERROR] mysql_query: invalid connection handle '1'
+[22:57:17] [ERROR] mysql_errno: invalid connection handle '1'
+[23:06:11] [ERROR] mysql_format: invalid connection handle '1'
+[23:06:11] [ERROR] mysql_query: invalid connection handle '1'
+[23:06:11] [ERROR] mysql_errno: invalid connection handle '1'
+[23:08:23] [ERROR] mysql_format: invalid connection handle '1'
+[23:08:23] [ERROR] mysql_query: invalid connection handle '1'
+[23:08:23] [ERROR] mysql_errno: invalid connection handle '1'
+[23:10:56] [ERROR] mysql_format: invalid connection handle '1'
+[23:10:56] [ERROR] mysql_query: invalid connection handle '1'
+[23:10:56] [ERROR] mysql_errno: invalid connection handle '1'
+[23:14:09] [ERROR] mysql_format: invalid connection handle '1'
+[23:14:09] [ERROR] mysql_query: invalid connection handle '1'
+[23:14:09] [ERROR] mysql_errno: invalid connection handle '1'
+[23:16:58] [ERROR] mysql_format: invalid connection handle '1'
+[23:16:58] [ERROR] mysql_query: invalid connection handle '1'
+[23:16:58] [ERROR] mysql_errno: invalid connection handle '1'
+[23:17:19] [ERROR] mysql_format: invalid connection handle '1'
+[23:17:19] [ERROR] mysql_query: invalid connection handle '1'
+[23:17:19] [ERROR] mysql_errno: invalid connection handle '1'
+[23:19:03] [ERROR] mysql_format: invalid connection handle '1'
+[23:19:03] [ERROR] mysql_query: invalid connection handle '1'
+[23:19:03] [ERROR] mysql_errno: invalid connection handle '1'
+[23:57:35] [ERROR] mysql_format: invalid connection handle '1'
+[23:57:35] [ERROR] mysql_query: invalid connection handle '1'
+[23:57:35] [ERROR] mysql_errno: invalid connection handle '1'
+[00:00:31] [ERROR] mysql_format: invalid connection handle '1'
+[00:00:31] [ERROR] mysql_query: invalid connection handle '1'
+[00:00:31] [ERROR] mysql_errno: invalid connection handle '1'
+[00:04:23] [ERROR] mysql_format: invalid connection handle '1'
+[00:04:23] [ERROR] mysql_query: invalid connection handle '1'
+[00:04:23] [ERROR] mysql_errno: invalid connection handle '1'
+[00:07:54] [ERROR] mysql_format: invalid connection handle '1'
+[00:07:54] [ERROR] mysql_query: invalid connection handle '1'
+[00:07:54] [ERROR] mysql_errno: invalid connection handle '1'
+[00:17:14] [ERROR] mysql_format: invalid connection handle '1'
+[00:17:14] [ERROR] mysql_query: invalid connection handle '1'
+[00:17:14] [ERROR] mysql_errno: invalid connection handle '1'
+[00:19:31] [ERROR] mysql_format: invalid connection handle '1'
+[00:19:31] [ERROR] mysql_query: invalid connection handle '1'
+[00:19:31] [ERROR] mysql_errno: invalid connection handle '1'
+[00:22:15] [ERROR] mysql_format: invalid connection handle '1'
+[00:22:15] [ERROR] mysql_query: invalid connection handle '1'
+[00:22:15] [ERROR] mysql_errno: invalid connection handle '1'
+[00:25:32] [ERROR] mysql_format: invalid connection handle '1'
+[00:25:32] [ERROR] mysql_query: invalid connection handle '1'
+[00:25:32] [ERROR] mysql_errno: invalid connection handle '1'
+[00:27:56] [ERROR] mysql_format: invalid connection handle '1'
+[00:27:56] [ERROR] mysql_query: invalid connection handle '1'
+[00:27:56] [ERROR] mysql_errno: invalid connection handle '1'
+[00:29:32] [ERROR] mysql_format: invalid connection handle '1'
+[00:29:32] [ERROR] mysql_query: invalid connection handle '1'
+[00:29:32] [ERROR] mysql_errno: invalid connection handle '1'
+[00:31:04] [ERROR] mysql_format: invalid connection handle '1'
+[00:31:04] [ERROR] mysql_query: invalid connection handle '1'
+[00:31:04] [ERROR] mysql_errno: invalid connection handle '1'
+[00:32:48] [ERROR] mysql_format: invalid connection handle '1'
+[00:32:48] [ERROR] mysql_query: invalid connection handle '1'
+[00:32:48] [ERROR] mysql_errno: invalid connection handle '1'
+[00:35:26] [ERROR] mysql_format: invalid connection handle '1'
+[00:35:26] [ERROR] mysql_query: invalid connection handle '1'
+[00:35:26] [ERROR] mysql_errno: invalid connection handle '1'
+[00:39:01] [ERROR] mysql_format: invalid connection handle '1'
+[00:39:01] [ERROR] mysql_query: invalid connection handle '1'
+[00:39:01] [ERROR] mysql_errno: invalid connection handle '1'
+[00:44:30] [ERROR] mysql_format: invalid connection handle '1'
+[00:44:30] [ERROR] mysql_query: invalid connection handle '1'
+[00:44:30] [ERROR] mysql_errno: invalid connection handle '1'
+[00:44:50] [ERROR] mysql_format: invalid connection handle '1'
+[00:44:50] [ERROR] mysql_query: invalid connection handle '1'
+[00:44:50] [ERROR] mysql_errno: invalid connection handle '1'
+[03:22:33] [ERROR] mysql_format: invalid connection handle '1'
+[03:22:33] [ERROR] mysql_query: invalid connection handle '1'
+[03:22:33] [ERROR] mysql_errno: invalid connection handle '1'
+[04:13:21] [ERROR] mysql_format: invalid connection handle '1'
+[04:13:21] [ERROR] mysql_query: invalid connection handle '1'
+[04:13:21] [ERROR] mysql_errno: invalid connection handle '1'
+[13:52:43] [ERROR] mysql_format: invalid connection handle '1'
+[13:52:43] [ERROR] mysql_query: invalid connection handle '1'
+[13:52:43] [ERROR] mysql_errno: invalid connection handle '1'
+[13:53:26] [ERROR] mysql_format: invalid connection handle '1'
+[13:53:26] [ERROR] mysql_query: invalid connection handle '1'
+[13:53:26] [ERROR] mysql_errno: invalid connection handle '1'
+[13:57:43] [ERROR] mysql_format: invalid connection handle '1'
+[13:57:43] [ERROR] mysql_query: invalid connection handle '1'
+[13:57:43] [ERROR] mysql_errno: invalid connection handle '1'
+[13:59:33] [ERROR] mysql_format: invalid connection handle '1'
+[13:59:33] [ERROR] mysql_query: invalid connection handle '1'
+[13:59:33] [ERROR] mysql_errno: invalid connection handle '1'
+[14:04:07] [ERROR] mysql_format: invalid connection handle '1'
+[14:04:07] [ERROR] mysql_query: invalid connection handle '1'
+[14:04:07] [ERROR] mysql_errno: invalid connection handle '1'
+[14:05:48] [ERROR] mysql_format: invalid connection handle '1'
+[14:05:48] [ERROR] mysql_query: invalid connection handle '1'
+[14:05:48] [ERROR] mysql_errno: invalid connection handle '1'
+[14:07:44] [ERROR] mysql_format: invalid connection handle '1'
+[14:07:44] [ERROR] mysql_query: invalid connection handle '1'
+[14:07:44] [ERROR] mysql_errno: invalid connection handle '1'
+[14:09:45] [ERROR] mysql_format: invalid connection handle '1'
+[14:09:45] [ERROR] mysql_query: invalid connection handle '1'
+[14:09:45] [ERROR] mysql_errno: invalid connection handle '1'
+[14:18:49] [ERROR] mysql_format: invalid connection handle '1'
+[14:18:49] [ERROR] mysql_query: invalid connection handle '1'
+[14:18:49] [ERROR] mysql_errno: invalid connection handle '1'
+[14:44:31] [ERROR] mysql_format: invalid connection handle '1'
+[14:44:31] [ERROR] mysql_query: invalid connection handle '1'
+[14:44:31] [ERROR] mysql_errno: invalid connection handle '1'
+[22:20:32] [ERROR] mysql_format: invalid connection handle '1'
+[22:20:32] [ERROR] mysql_query: invalid connection handle '1'
+[22:20:32] [ERROR] mysql_errno: invalid connection handle '1'
+[13:21:08] [ERROR] mysql_format: invalid connection handle '1'
+[13:21:08] [ERROR] mysql_query: invalid connection handle '1'
+[13:21:08] [ERROR] mysql_errno: invalid connection handle '1'
+[13:29:43] [ERROR] mysql_format: invalid connection handle '1'
+[13:29:43] [ERROR] mysql_query: invalid connection handle '1'
+[13:29:43] [ERROR] mysql_errno: invalid connection handle '1'
+[13:32:53] [ERROR] mysql_format: invalid connection handle '1'
+[13:32:53] [ERROR] mysql_query: invalid connection handle '1'
+[13:32:53] [ERROR] mysql_errno: invalid connection handle '1'
+[13:34:40] [ERROR] mysql_format: invalid connection handle '1'
+[13:34:40] [ERROR] mysql_query: invalid connection handle '1'
+[13:34:40] [ERROR] mysql_errno: invalid connection handle '1'
+[13:37:40] [ERROR] mysql_format: invalid connection handle '1'
+[13:37:40] [ERROR] mysql_query: invalid connection handle '1'
+[13:37:40] [ERROR] mysql_errno: invalid connection handle '1'
+[13:38:49] [ERROR] mysql_format: invalid connection handle '1'
+[13:38:49] [ERROR] mysql_query: invalid connection handle '1'
+[13:38:49] [ERROR] mysql_errno: invalid connection handle '1'
+[13:41:37] [ERROR] mysql_format: invalid connection handle '1'
+[13:41:37] [ERROR] mysql_query: invalid connection handle '1'
+[13:41:37] [ERROR] mysql_errno: invalid connection handle '1'
+[13:48:03] [ERROR] mysql_format: invalid connection handle '1'
+[13:48:03] [ERROR] mysql_query: invalid connection handle '1'
+[13:48:03] [ERROR] mysql_errno: invalid connection handle '1'
+[13:49:48] [ERROR] mysql_format: invalid connection handle '1'
+[13:49:48] [ERROR] mysql_query: invalid connection handle '1'
+[13:49:48] [ERROR] mysql_errno: invalid connection handle '1'
+[19:14:30] [ERROR] mysql_format: invalid connection handle '1'
+[19:14:30] [ERROR] mysql_query: invalid connection handle '1'
+[19:14:30] [ERROR] mysql_errno: invalid connection handle '1'
+[19:15:33] [ERROR] mysql_format: invalid connection handle '1'
+[19:15:33] [ERROR] mysql_query: invalid connection handle '1'
+[19:15:33] [ERROR] mysql_errno: invalid connection handle '1'
+[19:16:21] [ERROR] mysql_format: invalid connection handle '1'
+[19:16:21] [ERROR] mysql_query: invalid connection handle '1'
+[19:16:21] [ERROR] mysql_errno: invalid connection handle '1'
+[19:19:31] [ERROR] mysql_format: invalid connection handle '1'
+[19:19:31] [ERROR] mysql_query: invalid connection handle '1'
+[19:19:31] [ERROR] mysql_errno: invalid connection handle '1'
+[19:20:49] [ERROR] mysql_format: invalid connection handle '1'
+[19:20:49] [ERROR] mysql_query: invalid connection handle '1'
+[19:20:49] [ERROR] mysql_errno: invalid connection handle '1'
+[19:24:58] [ERROR] mysql_format: invalid connection handle '1'
+[19:24:58] [ERROR] mysql_query: invalid connection handle '1'
+[19:24:58] [ERROR] mysql_errno: invalid connection handle '1'
+[19:44:36] [ERROR] mysql_format: invalid connection handle '1'
+[19:44:36] [ERROR] mysql_query: invalid connection handle '1'
+[19:44:36] [ERROR] mysql_errno: invalid connection handle '1'
+[19:46:10] [ERROR] mysql_format: invalid connection handle '1'
+[19:46:10] [ERROR] mysql_query: invalid connection handle '1'
+[19:46:10] [ERROR] mysql_errno: invalid connection handle '1'
+[19:48:18] [ERROR] mysql_format: invalid connection handle '1'
+[19:48:18] [ERROR] mysql_query: invalid connection handle '1'
+[19:48:18] [ERROR] mysql_errno: invalid connection handle '1'
+[19:51:10] [ERROR] mysql_format: invalid connection handle '1'
+[19:51:10] [ERROR] mysql_query: invalid connection handle '1'
+[19:51:10] [ERROR] mysql_errno: invalid connection handle '1'
+[19:55:28] [ERROR] mysql_format: invalid connection handle '1'
+[19:55:28] [ERROR] mysql_query: invalid connection handle '1'
+[19:55:28] [ERROR] mysql_errno: invalid connection handle '1'
+[19:56:41] [ERROR] mysql_format: invalid connection handle '1'
+[19:56:41] [ERROR] mysql_query: invalid connection handle '1'
+[19:56:41] [ERROR] mysql_errno: invalid connection handle '1'
+[19:58:14] [ERROR] mysql_format: invalid connection handle '1'
+[19:58:14] [ERROR] mysql_query: invalid connection handle '1'
+[19:58:14] [ERROR] mysql_errno: invalid connection handle '1'
+[19:59:39] [ERROR] mysql_format: invalid connection handle '1'
+[19:59:39] [ERROR] mysql_query: invalid connection handle '1'
+[19:59:39] [ERROR] mysql_errno: invalid connection handle '1'
+[20:02:03] [ERROR] mysql_format: invalid connection handle '1'
+[20:02:03] [ERROR] mysql_query: invalid connection handle '1'
+[20:02:03] [ERROR] mysql_errno: invalid connection handle '1'
+[20:04:49] [ERROR] mysql_format: invalid connection handle '1'
+[20:04:49] [ERROR] mysql_query: invalid connection handle '1'
+[20:04:49] [ERROR] mysql_errno: invalid connection handle '1'
+[20:11:26] [ERROR] mysql_format: invalid connection handle '1'
+[20:11:26] [ERROR] mysql_query: invalid connection handle '1'
+[20:11:26] [ERROR] mysql_errno: invalid connection handle '1'
+[20:41:57] [ERROR] mysql_format: invalid connection handle '1'
+[20:41:57] [ERROR] mysql_query: invalid connection handle '1'
+[20:41:57] [ERROR] mysql_errno: invalid connection handle '1'
+[20:46:13] [ERROR] mysql_format: invalid connection handle '1'
+[20:46:13] [ERROR] mysql_query: invalid connection handle '1'
+[20:46:13] [ERROR] mysql_errno: invalid connection handle '1'
+[20:52:55] [ERROR] mysql_format: invalid connection handle '1'
+[20:52:55] [ERROR] mysql_query: invalid connection handle '1'
+[20:52:55] [ERROR] mysql_errno: invalid connection handle '1'
+[20:57:36] [ERROR] mysql_format: invalid connection handle '1'
+[20:57:36] [ERROR] mysql_query: invalid connection handle '1'
+[20:57:36] [ERROR] mysql_errno: invalid connection handle '1'
+[21:51:01] [ERROR] mysql_format: invalid connection handle '1'
+[21:51:01] [ERROR] mysql_query: invalid connection handle '1'
+[21:51:01] [ERROR] mysql_errno: invalid connection handle '1'
+[22:30:10] [ERROR] mysql_format: invalid connection handle '1'
+[22:30:10] [ERROR] mysql_query: invalid connection handle '1'
+[22:30:10] [ERROR] mysql_errno: invalid connection handle '1'
+[23:58:38] [ERROR] mysql_format: invalid connection handle '1'
+[23:58:38] [ERROR] mysql_query: invalid connection handle '1'
+[23:58:38] [ERROR] mysql_errno: invalid connection handle '1'
+[00:13:10] [ERROR] mysql_format: invalid connection handle '1'
+[00:13:10] [ERROR] mysql_query: invalid connection handle '1'
+[00:13:10] [ERROR] mysql_errno: invalid connection handle '1'
+[00:14:20] [ERROR] mysql_format: invalid connection handle '1'
+[00:14:20] [ERROR] mysql_query: invalid connection handle '1'
+[00:14:20] [ERROR] mysql_errno: invalid connection handle '1'
+[00:15:32] [ERROR] mysql_format: invalid connection handle '1'
+[00:15:32] [ERROR] mysql_query: invalid connection handle '1'
+[00:15:32] [ERROR] mysql_errno: invalid connection handle '1'
+[00:18:58] [ERROR] mysql_format: invalid connection handle '1'
+[00:18:58] [ERROR] mysql_query: invalid connection handle '1'
+[00:18:58] [ERROR] mysql_errno: invalid connection handle '1'
+[00:27:05] [ERROR] mysql_format: invalid connection handle '1'
+[00:27:05] [ERROR] mysql_query: invalid connection handle '1'
+[00:27:05] [ERROR] mysql_errno: invalid connection handle '1'
+[00:36:30] [ERROR] mysql_format: invalid connection handle '1'
+[00:36:30] [ERROR] mysql_query: invalid connection handle '1'
+[00:36:30] [ERROR] mysql_errno: invalid connection handle '1'
+[00:45:00] [ERROR] mysql_format: invalid connection handle '1'
+[00:45:00] [ERROR] mysql_query: invalid connection handle '1'
+[00:45:00] [ERROR] mysql_errno: invalid connection handle '1'
+[00:48:17] [ERROR] mysql_format: invalid connection handle '1'
+[00:48:17] [ERROR] mysql_query: invalid connection handle '1'
+[00:48:17] [ERROR] mysql_errno: invalid connection handle '1'
+[02:10:23] [ERROR] mysql_format: invalid connection handle '1'
+[02:10:23] [ERROR] mysql_query: invalid connection handle '1'
+[02:10:23] [ERROR] mysql_errno: invalid connection handle '1'
+[02:16:55] [ERROR] mysql_format: invalid connection handle '1'
+[02:16:55] [ERROR] mysql_query: invalid connection handle '1'
+[02:16:55] [ERROR] mysql_errno: invalid connection handle '1'
+[02:59:10] [ERROR] mysql_format: invalid connection handle '1'
+[02:59:10] [ERROR] mysql_query: invalid connection handle '1'
+[02:59:10] [ERROR] mysql_errno: invalid connection handle '1'
+[02:59:44] [ERROR] mysql_format: invalid connection handle '1'
+[02:59:44] [ERROR] mysql_query: invalid connection handle '1'
+[02:59:44] [ERROR] mysql_errno: invalid connection handle '1'
+[03:01:32] [ERROR] mysql_format: invalid connection handle '1'
+[03:01:32] [ERROR] mysql_query: invalid connection handle '1'
+[03:01:32] [ERROR] mysql_errno: invalid connection handle '1'
+[14:13:41] [ERROR] mysql_format: invalid connection handle '1'
+[14:13:41] [ERROR] mysql_query: invalid connection handle '1'
+[14:13:41] [ERROR] mysql_errno: invalid connection handle '1'
+[14:41:11] [ERROR] mysql_format: invalid connection handle '1'
+[14:41:11] [ERROR] mysql_query: invalid connection handle '1'
+[14:41:11] [ERROR] mysql_errno: invalid connection handle '1'
+[15:55:01] [ERROR] mysql_format: invalid connection handle '1'
+[15:55:01] [ERROR] mysql_query: invalid connection handle '1'
+[15:55:01] [ERROR] mysql_errno: invalid connection handle '1'
+[17:23:02] [ERROR] mysql_format: invalid connection handle '1'
+[17:23:02] [ERROR] mysql_query: invalid connection handle '1'
+[17:23:02] [ERROR] mysql_errno: invalid connection handle '1'
+[17:47:24] [ERROR] mysql_format: invalid connection handle '1'
+[17:47:24] [ERROR] mysql_query: invalid connection handle '1'
+[17:47:24] [ERROR] mysql_errno: invalid connection handle '1'
+[20:44:46] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:44:46] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:44:46] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:44:46] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:45:30] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:45:30] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:45:30] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:45:30] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:46:07] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:46:07] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:46:07] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:46:07] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:46:37] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:46:37] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:46:37] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:46:37] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:48:02] [WARNING] mysql_connect: no password specified
+[20:54:19] [WARNING] mysql_connect: no password specified
+[20:54:55] [ERROR] error #1054 while executing query "SELECT * FROM `accounts` WHERE `account_name`='Matt_Wayne' ": Unknown column 'account_name' in 'where clause'
+[20:54:55] [ERROR] error #1054 while executing query "SELECT * FROM `accounts` WHERE `account_name`='Xylospeed' ": Unknown column 'account_name' in 'where clause'
+[04:06:22] [WARNING] mysql_connect: no password specified
+[14:48:15] [WARNING] mysql_connect: no password specified
+[14:50:04] [WARNING] mysql_connect: no password specified
+[14:52:46] [ERROR] error #1054 while executing query "SELECT player_password, player_id FROM accounts WHERE player_nombre = 'Xylospeed' LIMIT 1": Unknown column 'player_nombre' in 'where clause'
+[17:54:29] [WARNING] mysql_connect: no password specified
+[17:58:00] [ERROR] error #1136 while executing query "INSERT INTO accounts(player_name, player_password, player_alias, player_age, player_state, player_gender, player_faces1, player_height, player_skin, player_posX, player_posY, player_posZ, player_rot) VALUES ('Xylos', '$2y$12$KFCuYCjlOVawZibMbVjOZuNFgvrd88tnJjYZUEnef0mm9MDLIIHRW', '104', '19', '5', '2', '5', '99',   '0.000000', '0.000000', '0.000000', '0.000000')": Column count doesn't match value count at row 1
+[18:19:29] [WARNING] mysql_connect: no password specified
+[18:23:03] [WARNING] mysql_connect: no password specified
+[22:12:21] [WARNING] mysql_connect: no password specified
+[22:33:44] [WARNING] mysql_connect: no password specified
+[22:34:13] [ERROR] error #1054 while executing query "SELECT player_password, player_id FROM accounts WHERE player_nombre = 'Xylos' LIMIT 1": Unknown column 'player_nombre' in 'where clause'
+[22:41:04] [WARNING] mysql_connect: no password specified
+[22:44:36] [WARNING] mysql_connect: no password specified
+[22:50:23] [WARNING] mysql_connect: no password specified
+[22:52:42] [WARNING] mysql_connect: no password specified
+[23:03:46] [WARNING] mysql_connect: no password specified
+[12:20:02] [WARNING] mysql_connect: no password specified
+[18:59:20] [WARNING] mysql_connect: no password specified
+[18:59:21] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:59:22] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:59:23] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:59:24] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:59:55] [WARNING] mysql_connect: no password specified
+[19:00:20] [WARNING] mysql_connect: no password specified
+[22:21:07] [WARNING] mysql_connect: no password specified
+[22:21:40] [ERROR] error #1054 while executing query "SELECT player_password, player_id FROM accounts WHERE player_nombre = 'Xylospix' LIMIT 1": Unknown column 'player_nombre' in 'where clause'
+[22:39:06] [WARNING] mysql_connect: no password specified
+[22:39:26] [ERROR] error #1054 while executing query "SELECT player_password, player_id FROM accounts WHERE player_nombre = 'Xylospix' LIMIT 1": Unknown column 'player_nombre' in 'where clause'
+[22:48:07] [WARNING] mysql_connect: no password specified
+[22:48:27] [ERROR] error #1054 while executing query "SELECT player_password, player_id FROM accounts WHERE player_nombre = 'Xylospix' LIMIT 1": Unknown column 'player_nombre' in 'where clause'
+[22:59:16] [WARNING] mysql_connect: no password specified
+[23:01:57] [WARNING] mysql_connect: no password specified
+[23:06:26] [WARNING] mysql_connect: no password specified
+[23:11:36] [WARNING] mysql_connect: no password specified
+[23:14:18] [WARNING] mysql_connect: no password specified
+[23:21:58] [WARNING] mysql_connect: no password specified
+[23:24:49] [WARNING] mysql_connect: no password specified
+[00:16:15] [WARNING] mysql_connect: no password specified
+[00:25:18] [WARNING] mysql_connect: no password specified
+[00:25:53] [WARNING] mysql_connect: no password specified
+[00:28:06] [WARNING] mysql_connect: no password specified
+[00:31:48] [WARNING] mysql_connect: no password specified
+[00:43:55] [WARNING] mysql_connect: no password specified
+[00:46:13] [WARNING] mysql_connect: no password specified
+[00:49:04] [WARNING] mysql_connect: no password specified
+[01:46:52] [WARNING] mysql_connect: no password specified
+[01:48:48] [WARNING] mysql_connect: no password specified
+[01:52:47] [WARNING] mysql_connect: no password specified
+[02:07:46] [WARNING] mysql_connect: no password specified
+[02:10:49] [WARNING] mysql_connect: no password specified
+[11:48:07] [WARNING] mysql_connect: no password specified
+[11:48:08] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[11:48:09] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[11:48:10] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[11:48:11] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[11:48:29] [WARNING] mysql_connect: no password specified
+[11:48:30] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[11:54:21] [WARNING] mysql_connect: no password specified
+[11:57:02] [WARNING] mysql_connect: no password specified
+[12:01:46] [WARNING] mysql_connect: no password specified
+[18:02:48] [WARNING] mysql_connect: no password specified
+[18:16:59] [WARNING] mysql_connect: no password specified
+[18:56:37] [WARNING] mysql_connect: no password specified
+[18:59:57] [WARNING] mysql_connect: no password specified
+[19:04:17] [WARNING] mysql_connect: no password specified
+[19:05:20] [WARNING] mysql_connect: no password specified
+[19:08:31] [WARNING] mysql_connect: no password specified
+[19:28:39] [WARNING] mysql_connect: no password specified
+[19:32:33] [WARNING] mysql_connect: no password specified
+[19:33:51] [WARNING] mysql_connect: no password specified
+[22:58:46] [WARNING] mysql_connect: no password specified
+[23:00:37] [WARNING] mysql_connect: no password specified
+[23:05:58] [WARNING] mysql_connect: no password specified
+[23:07:19] [WARNING] mysql_connect: no password specified
+[00:08:06] [WARNING] mysql_connect: no password specified
+[00:10:13] [WARNING] mysql_connect: no password specified
+[00:14:08] [WARNING] mysql_connect: no password specified
+[00:17:20] [WARNING] mysql_connect: no password specified
+[00:20:11] [WARNING] mysql_connect: no password specified
+[00:25:44] [WARNING] mysql_connect: no password specified
+[00:41:50] [WARNING] mysql_connect: no password specified
+[00:43:30] [WARNING] mysql_connect: no password specified
+[00:46:16] [WARNING] mysql_connect: no password specified
+[00:49:00] [WARNING] mysql_connect: no password specified
+[00:51:30] [WARNING] mysql_connect: no password specified
+[00:58:03] [WARNING] mysql_connect: no password specified
+[00:59:29] [WARNING] mysql_connect: no password specified
+[01:03:29] [WARNING] mysql_connect: no password specified
+[02:14:35] [WARNING] mysql_connect: no password specified
+[13:26:15] [WARNING] mysql_connect: no password specified
+[14:09:56] [WARNING] mysql_connect: no password specified
+[14:12:28] [WARNING] mysql_connect: no password specified
+[14:16:27] [WARNING] mysql_connect: no password specified
+[14:21:15] [WARNING] mysql_connect: no password specified
+[14:23:39] [WARNING] mysql_connect: no password specified
+[14:25:06] [WARNING] mysql_connect: no password specified
+[14:28:58] [WARNING] mysql_connect: no password specified
+[14:29:57] [WARNING] mysql_connect: no password specified
+[15:10:50] [WARNING] mysql_connect: no password specified
+[15:57:15] [WARNING] mysql_connect: no password specified
+[15:59:16] [WARNING] mysql_connect: no password specified
+[16:01:43] [WARNING] mysql_connect: no password specified
+[16:04:47] [WARNING] mysql_connect: no password specified
+[16:06:11] [WARNING] mysql_connect: no password specified
+[23:57:35] [WARNING] mysql_connect: no password specified
+[00:01:16] [WARNING] mysql_connect: no password specified
+[13:51:39] [WARNING] mysql_connect: no password specified
+[14:30:16] [WARNING] mysql_connect: no password specified
+[11:30:53] [WARNING] mysql_connect: no password specified
+[11:34:32] [ERROR] mysql_format: destination size '400' is too small
+[11:34:32] [ERROR] error #1065 while executing query "": Query was empty
+[11:40:43] [WARNING] mysql_connect: no password specified
+[11:42:08] [ERROR] error #1054 while executing query "SELECT player_password, player_id FROM accounts WHERE player_nombre = 'Arthur_Tower' LIMIT 1": Unknown column 'player_nombre' in 'where clause'
+[11:46:20] [WARNING] mysql_connect: no password specified
+[11:46:46] [WARNING] mysql_connect: no password specified
+[11:47:06] [ERROR] error #1054 while executing query "SELECT player_password, player_id FROM accounts WHERE player_nombre = 'Arthur_Tower' LIMIT 1": Unknown column 'player_nombre' in 'where clause'
+[11:50:15] [WARNING] mysql_connect: no password specified
+[15:10:52] [WARNING] mysql_connect: no password specified
+[15:16:31] [WARNING] mysql_connect: no password specified
